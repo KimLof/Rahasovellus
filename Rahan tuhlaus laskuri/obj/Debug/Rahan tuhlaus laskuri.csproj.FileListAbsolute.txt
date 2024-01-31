@@ -1,0 +1,31 @@
+C:\Users\kimlo\Desktop\Nina\PalkkaProjekti\Rahan tuhlaus laskuri\Rahan tuhlaus laskuri\bin\Debug\Rahan tuhlaus laskuri.exe.config
+C:\Users\kimlo\Desktop\Nina\PalkkaProjekti\Rahan tuhlaus laskuri\Rahan tuhlaus laskuri\bin\Debug\Rahan tuhlaus laskuri.exe
+C:\Users\kimlo\Desktop\Nina\PalkkaProjekti\Rahan tuhlaus laskuri\Rahan tuhlaus laskuri\bin\Debug\Rahan tuhlaus laskuri.pdb
+C:\Users\kimlo\Desktop\Nina\PalkkaProjekti\Rahan tuhlaus laskuri\Rahan tuhlaus laskuri\obj\Debug\Rahan tuhlaus laskuri.csproj.AssemblyReference.cache
+C:\Users\kimlo\Desktop\Nina\PalkkaProjekti\Rahan tuhlaus laskuri\Rahan tuhlaus laskuri\obj\Debug\Rahan_tuhlaus_laskuri.Properties.Resources.resources
+C:\Users\kimlo\Desktop\Nina\PalkkaProjekti\Rahan tuhlaus laskuri\Rahan tuhlaus laskuri\obj\Debug\Rahan tuhlaus laskuri.csproj.GenerateResource.cache
+C:\Users\kimlo\Desktop\Nina\PalkkaProjekti\Rahan tuhlaus laskuri\Rahan tuhlaus laskuri\obj\Debug\Rahan tuhlaus laskuri.csproj.CoreCompileInputs.cache
+C:\Users\kimlo\Desktop\Nina\PalkkaProjekti\Rahan tuhlaus laskuri\Rahan tuhlaus laskuri\obj\Debug\Rahan tuhlaus laskuri.exe
+C:\Users\kimlo\Desktop\Nina\PalkkaProjekti\Rahan tuhlaus laskuri\Rahan tuhlaus laskuri\obj\Debug\Rahan tuhlaus laskuri.pdb
+C:\Users\kimlo\Desktop\Nina\PalkkaProjekti\Rahan tuhlaus laskuri\Rahan tuhlaus laskuri\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\kimlo\Desktop\Nina\PalkkaProjekti\Rahan tuhlaus laskuri\Rahan tuhlaus laskuri\bin\Debug\System.Buffers.dll
+C:\Users\kimlo\Desktop\Nina\PalkkaProjekti\Rahan tuhlaus laskuri\Rahan tuhlaus laskuri\bin\Debug\System.Memory.dll
+C:\Users\kimlo\Desktop\Nina\PalkkaProjekti\Rahan tuhlaus laskuri\Rahan tuhlaus laskuri\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\kimlo\Desktop\Nina\PalkkaProjekti\Rahan tuhlaus laskuri\Rahan tuhlaus laskuri\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\kimlo\Desktop\Nina\PalkkaProjekti\Rahan tuhlaus laskuri\Rahan tuhlaus laskuri\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\kimlo\Desktop\Nina\PalkkaProjekti\Rahan tuhlaus laskuri\Rahan tuhlaus laskuri\bin\Debug\System.Text.Json.dll
+C:\Users\kimlo\Desktop\Nina\PalkkaProjekti\Rahan tuhlaus laskuri\Rahan tuhlaus laskuri\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\kimlo\Desktop\Nina\PalkkaProjekti\Rahan tuhlaus laskuri\Rahan tuhlaus laskuri\bin\Debug\System.ValueTuple.dll
+C:\Users\kimlo\Desktop\Nina\PalkkaProjekti\Rahan tuhlaus laskuri\Rahan tuhlaus laskuri\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\kimlo\Desktop\Nina\PalkkaProjekti\Rahan tuhlaus laskuri\Rahan tuhlaus laskuri\bin\Debug\System.Buffers.xml
+C:\Users\kimlo\Desktop\Nina\PalkkaProjekti\Rahan tuhlaus laskuri\Rahan tuhlaus laskuri\bin\Debug\System.Memory.xml
+C:\Users\kimlo\Desktop\Nina\PalkkaProjekti\Rahan tuhlaus laskuri\Rahan tuhlaus laskuri\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\kimlo\Desktop\Nina\PalkkaProjekti\Rahan tuhlaus laskuri\Rahan tuhlaus laskuri\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\kimlo\Desktop\Nina\PalkkaProjekti\Rahan tuhlaus laskuri\Rahan tuhlaus laskuri\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\kimlo\Desktop\Nina\PalkkaProjekti\Rahan tuhlaus laskuri\Rahan tuhlaus laskuri\bin\Debug\System.Text.Json.xml
+C:\Users\kimlo\Desktop\Nina\PalkkaProjekti\Rahan tuhlaus laskuri\Rahan tuhlaus laskuri\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\kimlo\Desktop\Nina\PalkkaProjekti\Rahan tuhlaus laskuri\Rahan tuhlaus laskuri\bin\Debug\System.ValueTuple.xml
+C:\Users\kimlo\Desktop\Nina\PalkkaProjekti\Rahan tuhlaus laskuri\Rahan tuhlaus laskuri\obj\Debug\Rahan_tuhlaus_laskuri.Main.resources
+C:\Users\kimlo\Desktop\Nina\PalkkaProjekti\Rahan tuhlaus laskuri\Rahan tuhlaus laskuri\obj\Debug\Rahan tuhlaus laskuri.csproj.CopyComplete
+C:\Users\kimlo\Desktop\Nina\PalkkaProjekti\Rahan tuhlaus laskuri\Rahan tuhlaus laskuri\obj\Debug\Rahan_tuhlaus_laskuri.Edit.resources
+C:\Users\kimlo\Desktop\Nina\PalkkaProjekti\Rahan tuhlaus laskuri\Rahan tuhlaus laskuri\obj\Debug\Rahan_tuhlaus_laskuri.dialog.resources

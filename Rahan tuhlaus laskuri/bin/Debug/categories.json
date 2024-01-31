@@ -1,0 +1,90 @@
+{
+  "categories": [
+    {
+      "Name": "Matkakulut",
+      "Keywords": [
+        "HSL MOBIILI",
+        "Hsl Mobiili"
+      ]
+    },
+    {
+      "Name": "Ruokakauppa",
+      "Keywords": [
+        "PRISMA",
+        "K-CITYMARKET",
+        "ALEPA",
+        "K-Market",
+        "K-supermarket",
+        "K-SUPERMARKET",
+        "k-market"
+      ]
+    },
+    {
+      "Name": "Ravintolat",
+      "Keywords": [
+        "Wolt"
+      ]
+    },
+    {
+      "Name": "Mobilepay",
+      "Keywords": [
+        "Mobilepay",
+        "Mob.pay"
+      ]
+    },
+    {
+      "Name": "Vaatteet",
+      "Keywords": []
+    },
+    {
+      "Name": "Viihde",
+      "Keywords": []
+    },
+    {
+      "Name": "Kodintarvike",
+      "Keywords": []
+    },
+    {
+      "Name": "Elektroniikka",
+      "Keywords": []
+    },
+    {
+      "Name": "Kauneudenhoito",
+      "Keywords": []
+    },
+    {
+      "Name": "Elinkustannukset",
+      "Keywords": [
+        "ELISA",
+        "HELEN",
+        "Telia"
+      ]
+    },
+    {
+      "Name": "Palkka",
+      "Keywords": []
+    },
+    {
+      "Name": "S\u00E4\u00E4st\u00F6t",
+      "Keywords": []
+    },
+    {
+      "Name": "Huoltoasemat",
+      "Keywords": [
+        "NESTE",
+        "ST1",
+        "Neste"
+      ]
+    },
+    {
+      "Name": "Edut",
+      "Keywords": [
+        "LAITOS"
+      ]
+    },
+    {
+      "Name": "Muut",
+      "Keywords": []
+    }
+  ]
+}
