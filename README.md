@@ -4,6 +4,9 @@
 
 Raha sovellus on työpöytäsovellus, jonka avulla käyttäjät voivat hallita henkilökohtaisia rahojaan lataamalla tiliotteensa CSV-tiedostona. Sovelluksella voi kategorisoida tulot ja menot, jotta voit seurata rahankäyttöäsi helpommin. 
 
+Sovelluksen toimintaperiaate perustuu tiliotteen csv-tiedostoon, joka sisältää tietoja kuten määrän, päivämäärän ja saajan. Esimerkiksi HSL:n maksut ilmenevät nimellä `HSL MOBIILI` tai `hsl mobiili`. Nämä ovat niin sanottuja avainsanoja, joiden avulla sovellus pystyy tunnistamaan HSL:n tapahtumat matkakuluiksi.
+
+
 ## Ominaisuudet
 
 - Tiliotteiden lataaminen CSV-muodossa.
