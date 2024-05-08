@@ -1,38 +1,36 @@
-# Raha sovellus
+# Money Management App
 
-## Kuvaus
+## Description
 
-Raha sovellus on työpöytäsovellus, jonka avulla käyttäjät voivat hallita henkilökohtaisia rahojaan lataamalla tiliotteensa CSV-tiedostona. Sovelluksella voi kategorisoida tulot ja menot, jotta voit seurata rahankäyttöäsi helpommin. 
+The Money Management App is a desktop application that allows users to manage their personal finances by uploading their bank statements as CSV files. The app enables users to categorize their income and expenses, making it easier to track their spending.
 
-Sovelluksen toimintaperiaate perustuu tiliotteen csv-tiedostoon, joka sisältää tietoja kuten määrän, päivämäärän ja saajan. Esimerkiksi HSL:n maksut ilmenevät nimellä `HSL MOBIILI` tai `hsl mobiili`. Nämä ovat niin sanottuja avainsanoja, joiden avulla sovellus pystyy tunnistamaan HSL:n tapahtumat matkakuluiksi.
+The functioning of the app is based on the CSV bank statement file, which contains information such as the amount, date, and payee. For example, transactions from HSL (Helsinki Regional Transport Authority) appear under names like `HSL MOBIILI` or `hsl mobiili`. These are keywords that the app uses to identify HSL transactions as travel expenses.
 
+## Features
 
-## Ominaisuudet
+- Uploading bank statements in CSV format.
+- Categorization of income and expenses.
+- Ability to edit categories.
+- Summary of income and expenses.
 
-- Tiliotteiden lataaminen CSV-muodossa.
-- Tulojen ja menojen kategorisointi.
-- Kategorioiden muokkausmahdollisuus.
-- Tulosten ja menojen yhteenveto.
+## Usage
 
-## Käyttö
+After downloading the application, you need to extract it. In the `Release` folder, there is an executable file named `Money Management Counter`, which allows you to open the application.
 
-Ladattuasi sovelluksen, sinun tulee purkaa se. `Release`-kansiossa on exe-tiedosto nimeltä `Raha tuhlaus laskuri`, jonka avulla voit avata sovelluksen.
+### Basic Features
 
-### Perusominaisuudet
+At the bottom left of the application, there are two buttons: `Add` and `New`. These buttons allow you to add CSV files to the application. By clicking `Add`, you can add a new CSV file, and you can have multiple CSV files loaded simultaneously. By clicking `New`, the application removes old CSV files from the registry and adds a new one.
 
-Sovelluksen vasemmassa alakulmassa on kaksi nappia: `Lisää` ja `Uusi`. Näiden nappien avulla voit lisätä csv-tiedostoja sovellukseen. `Lisää`-nappia painamalla voit lisätä uuden csv-tiedoston, ja sinulla voi olla useita csv-tiedostoja ladattuna samaan aikaan. `Uusi`-nappia painamalla sovellus poistaa rekisteristä vanhat csv-tiedostot ja lisää uuden.
+To the right of these buttons are the `Income` and `Expenses` buttons. By clicking these, you can filter the view to show only income or expenses.
 
-Näiden nappien oikealla puolella on `Tulot` ja `Menot` -napit. Näitä painamalla voit suodattaa näkymään joko vain tulot tai menot.
+Once you have uploaded a CSV file, you can assign a category to it from the last column of the table on the left. The categories will appear in the table on the right. By clicking on a specific category in the left table, you will see only the expenses and/or income related to that category.
 
-Kun olet ladannut csv-tiedoston, voit valita sille kategorian vasemmalla olevan taulukon viimeisestä sarakkeesta. Oikealla puolella olevaan taulukkoon ilmestyvät kategoriat. Painamalla tiettyä kategoriaa vasemman puolen taulukossa, näet vain kyseisen kategorian menot ja/tai tulot.
+### Adding a Category
 
-### Kategorian lisääminen
+In the top left corner, there is a `Menu` dropdown menu, where you can find the `Edit Categories` button. Clicking this will take you to a new tab where you can edit, add, or delete categories.
 
-Vasemmassa yläkulmassa on `Menu`-alasvetovalikko, josta löytyy `Muokkaa kategorioita` -nappi. Tätä painamalla pääset uudelle välilehdelle, jossa voit muokata, lisätä tai poistaa kategorioita.
+In the `Categories` table on the left, you will see all the categories. Below it, you can add, edit, or delete categories. In the `Keywords` table on the right, you will see all the keywords for a specific category, which you can also add, delete, or edit.
 
-Vasemmalla olevassa `Kategoriat`-taulukossa näkyy kaikki kategoriat. Sen alapuolella on mahdollisuus lisätä, muokata tai poistaa kategorioita. Oikealla olevassa `Avainsanat`-taulukossa näkyy kaikki tietyn kategorian avainsanat, joita voi myös lisätä, poistaa tai muokata.
+## Support
 
-
-## Tuki
-
-Jos tarvitset teknistä tukea tai sinulla on kysyttävää, lähetä sähköpostia kim@kimcode.fi tai avaa ongelma GitHubin issues-osiossa.
+If you need technical support or have any questions, please email kim@kimcode.fi or open an issue on GitHub.
